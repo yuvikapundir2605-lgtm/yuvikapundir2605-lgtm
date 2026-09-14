@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on <br>AI-based Exam Proctoring System & Expense Tracker Web App<br><br>👯 I’m looking to collaborate on <br>Web Development projects (Frontend + Backend) and Java-based applications<br><br>🤝 I’m looking for help with <br>Advanced DSA, System Design, and Real-world project deployment<br><br>🌱 I’m currently learning <br>Data Structures & Algorithms, Operating Systems, DBMS, and Computer Networks<br><br>💬 Ask me about <br>Java, SQL, Web Development (HTML, CSS, JS), and OS concepts<br><br>⚡ Fun fact <br>I love turning real-world problems into code and learning by building projects 🚀
+🔭 I’m currently working on <br>AI-based Exam Proctoring System & Weather Dashboard<br><br>👯 I’m looking to collaborate on <br>Web Development projects (Frontend + Backend) and Java-based applications<br><br>🤝 I’m looking for help with <br>Advanced DSA, System Design, and Real-world project deployment<br><br>🌱 I’m currently learning <br>Data Structures & Algorithms, Operating Systems, DBMS, and Computer Networks<br><br>💬 Ask me about <br>Java, SQL, Web Development (HTML, CSS, JS), and OS concepts<br><br>⚡ Fun fact <br>I love turning real-world problems into code and learning by building projects 🚀
 
 
 ## 🌐 Socials:
